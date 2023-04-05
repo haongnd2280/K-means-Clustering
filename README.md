@@ -21,4 +21,4 @@ This project implemented K-means algorithm and applied to image segmentation and
 ## Details 
 1. Image segmentation 
 Here are some result images obtained from using the algorithm for image segmentation: 
-[image 1](https://github.com/haongnd2280/K-means-Clustering/blob/main/images/seg_img1.jpg)
+![image 1](https://github.com/haongnd2280/K-means-Clustering/blob/main/images/seg_img1.jpg)
