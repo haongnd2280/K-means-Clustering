@@ -1,0 +1,8 @@
+numpy
+scipy 
+matplotlib
+seaborn
+tensorflow
+sklearn
+typing
+tqdm
