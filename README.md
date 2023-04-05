@@ -31,4 +31,12 @@ Here are some result images obtained from using the algorithm for image segmenta
 
 ![image3](https://github.com/haongnd2280/K-means-Clustering/blob/main/images/seg_img4.jpg?raw=true)
 
+2. Handwritten digits recognition 
 
+Here are the digit clusters that the algorithm found: 
+
+- 28 x 28 images: 
+![28x28](https://github.com/haongnd2280/K-means-Clustering/blob/main/images/digit_centers_28x28.jpg)
+
+- 8 x 8 images:
+![8x8](https://github.com/haongnd2280/K-means-Clustering/blob/main/images/digit_centers_8x8.jpg)
